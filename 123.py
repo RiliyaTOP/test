@@ -9,3 +9,6 @@ def c():
 print(d)
 def f():
     print("oops")
+
+def g():
+    print("Hello World")
