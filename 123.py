@@ -3,12 +3,9 @@ def a():
 a()
 def b():
     print("Hello World")
-d = 123
-def c():
-    print("Hello World")
-print(d)
 def f():
     print("oops")
-
+print(f)
+a1 = 3
 def g():
     print("Hello World")
