@@ -6,3 +6,6 @@ def b():
 d = 123
 def c():
     print("Hello World")
+print(d)
+def f():
+    print("oops")
